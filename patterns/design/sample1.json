@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "Sample1",
+  "content": "<!-- wp:cover {\"url\":\"https://block.mptc.cloud/wp-content/uploads/2026/04/wp_dummy_content_generator_107.jpg\",\"id\":108,\"dimRatio\":50,\"style\":{\"color\":[]}} -->\n<div class=\"wp-block-cover\"><img class=\"wp-block-cover__image-background wp-image-108\" alt=\"\" src=\"https://block.mptc.cloud/wp-content/uploads/2026/04/wp_dummy_content_generator_107.jpg\" data-object-fit=\"cover\"/><span aria-hidden=\"true\" class=\"wp-block-cover__background has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"fontSize\":\"large\"} -->\n<p class=\"has-text-align-center has-large-font-size\">សាកល្បង</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}
